@@ -1,4 +1,4 @@
-# VINet: A Visual Interpretable Image Diagnosis Network
+# Medical Image Interpretability Network
 
 ## Installation
 
